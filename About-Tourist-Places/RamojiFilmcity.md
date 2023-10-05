@@ -13,6 +13,6 @@ Incepted in 1996, Ramoji Film City was originally conceived as an integrated fil
 Ramoji Film City is home to the world of make believe, glamorous filmy sets, fun rides, games, daily live shows, high-action stunts, thematic food courts, shopping boutiques and signature hospitality in its hotels dotting the dreamscape.
 
 A cluster of tourism attractions with cine-magic extends a rich tourist’s experience. Studio tour, eco tour, adventure activities at Sahas - Asia’s finest adventure land and therapeutic wellness programs at Sukhibhava Wellness play a great host to holiday makers, grand weddings, honeymoons, corporate events, family vacations, excursions and educational tours, theme parties, adventure and seekers of good health and rejuvenation.
-<img align="center" src="https://www.ourcities.in/wp-content/uploads/2019/12/ramoji-film-city.jpg" alt="RamojiFilmCity"/>
+<img align="center" src="[https://www.ourcities.in/wp-content/uploads/2019/12/ramoji-film-city.jpg](https://www.ourcities.in/wp-content/uploads/2019/12/ramoji-film-city.jpg)" alt="RamojiFilmCity"/>
 
 <!--Example: <img align="center" src="https://lotustours.in/assets/img/taj/photo-room-detail-1.jpg" alt="Taj Mahal"/> -->
